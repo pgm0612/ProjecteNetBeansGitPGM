@@ -10,7 +10,7 @@ package com.mycompany.projectenetbeansgitpgm;
  */
 public class ProjecteNetBeansGitPGM {
 
-    //SEGONA MODIFICACIO
+    //MODIFICACIO BRANCA
     public static void main(String[] args) {
         System.out.println("Si!");
     }
